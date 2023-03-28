@@ -33,12 +33,12 @@ public class User {
         this.blogList = blogList;
     }
 
-    public int getUserId() {
+    public int getId() {
         return id;
     }
 
-    public void setUserId(int userId) {
-        this.id = userId;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getUsername() {
